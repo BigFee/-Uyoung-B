@@ -1,4 +1,13 @@
+<<<<<<< HEAD
+55551234567阿斯达1111111111对对对
+=======
 55551234567阿斯达
 hello
+<<<<<<< HEAD
 
 事实上
+=======
+>>>>>>> 978a5e359ed8d152debbe1f88e36de5f84f71df1
+vvvvv的的
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+>>>>>>> 8c1672ed3e7b38019b6f04117d389fbd6ce0425c
